@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab8</string>
+    <string name="words">Palabra clave</string>
+    <string name="author">Autor</string>
+    <string name="min_points">Puntos mínimos</string>
+    <string name="search">Buscar</string>
+</resources>
